@@ -1,0 +1,13 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00F54H 00F55H _TEXT              CODE
+ 00F60H 01655H 006F6H _DATA              DATA
+ 01660H 0175FH 00100H STACK              STACK
+ 01760H 02E57H 016F8H ZOMBIE             
+ 02E60H 04BE7H 01D88H PLAYER             
+ 04BF0H 04F73H 00384H BULLET_SEG         
+ 04F80H 1497FH 0FA00H DOUBLE_BUFFER      
+
+Program entry point at 0000:0E89
+

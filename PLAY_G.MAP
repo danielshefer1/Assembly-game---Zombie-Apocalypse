@@ -1,0 +1,12 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00D80H 00D81H _TEXT              CODE
+ 00D90H 01485H 006F6H _DATA              DATA
+ 01490H 0158FH 00100H STACK              STACK
+ 01590H 02C87H 016F8H ZOMBIE             
+ 02C90H 04A17H 01D88H PLAYER             
+ 04A20H 04DA3H 00384H BULLET_SEG         
+
+Program entry point at 0000:0D2B
+
